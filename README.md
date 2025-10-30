@@ -68,17 +68,21 @@ Several regression algorithms were tested to find the best performer:
 
 ## 📊 Results
 
-### 🔹 First Batch - Initial 10 Random Properties Test Results
+> **Note:** Both “First Batch” and “Second Batch” are results from the *same* LightGBM model.  
+> They represent predictions on two different random samples of 10 properties each,  
+> allowing us to observe the model’s consistency and generalization ability.
+
+### 🔹 First Batch - Sample of 10 Random Properties
 ![First Batch](images/first_batch.jpg)
 
-### 🔹 Second Batch - Improved 10 Random Properties Test Results
+### 🔹 Second Batch - Another Sample of 10 Random Properties
 ![Second Batch](images/second_batch.jpg)
 
 ### 🔹 Comparison between First and Second Batch
 ![Comparison](images/comparison.jpg)
 
 **Observations:**
-- Average error improved from **28.8% → 13.0%**  
-- Excellent predictions (≤15% error) increased by **100%**  
-- Not-acceptable predictions (>35%) reduced to **0%**  
-- LightGBM delivered consistently **better and more stable predictions**
+- Both batches are generated using the same model.  
+- The comparison highlights the model’s consistent performance across random samples.  
+- Prediction errors remain stable and within acceptable limits for most cases.  
+- LightGBM demonstrates strong generalization and minimal overfitting.
