@@ -76,7 +76,7 @@ Several regression algorithms were tested to find the best performer:
 ![First Batch](https://github.com/nirmalchoudhary0110/House-Price-Prediction/blob/2b69891685b03b098139441a8024f71051896b16/first_batch.jpeg)
 
 ### 🔹 Second Batch - Another Sample of 10 Random Properties
-![Second Batch](images/second_batch.jpg)
+![Second Batch](https://github.com/nirmalchoudhary0110/House-Price-Prediction/blob/1db62c4bab4a3e9ed803aab0034b8846366d4130/second_batch.jpeg)
 
 ### 🔹 Comparison between First and Second Batch
 ![Comparison](images/comparison.jpg)
