@@ -68,14 +68,14 @@ Several regression algorithms were tested to find the best performer:
 
 ## 📊 Results
 
-### 🔹 Comparison with First Batch
-![Comparison](images/comparison.jpg)
+### 🔹 First Batch - Initial 10 Random Properties Test Results
+![First Batch](images/first_batch.jpg)
 
-### 🔹 Second Batch - Another 10 Random Properties Test Results
+### 🔹 Second Batch - Improved 10 Random Properties Test Results
 ![Second Batch](images/second_batch.jpg)
 
-### 🔹 First Batch - 10 Random Properties Test Results
-![First Batch](images/first_batch.jpg)
+### 🔹 Comparison between First and Second Batch
+![Comparison](images/comparison.jpg)
 
 **Observations:**
 - Average error improved from **28.8% → 13.0%**  
