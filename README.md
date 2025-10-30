@@ -73,7 +73,7 @@ Several regression algorithms were tested to find the best performer:
 > allowing us to observe the model’s consistency and generalization ability.
 
 ### 🔹 First Batch - Sample of 10 Random Properties
-![First Batch](images/first_batch.jpg)
+![First Batch](https://github.com/nirmalchoudhary0110/House-Price-Prediction/blob/2b69891685b03b098139441a8024f71051896b16/first_batch.jpeg)
 
 ### 🔹 Second Batch - Another Sample of 10 Random Properties
 ![Second Batch](images/second_batch.jpg)
